@@ -1,0 +1,10 @@
+body{
+    color: white;
+   background-image: url("./mir.jpeg");
+   background-repeat: no-repeat;
+   background-position: none;
+   background-size: cover;
+}
+H1{
+    color: RED;
+}
